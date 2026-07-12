@@ -1,0 +1,46 @@
+name: Product bug report
+description: Report a reproducible problem in a released Rion Studio build.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: Do not include passwords, session data, access tokens, or security-vulnerability details.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Operating system
+      options:
+        - macOS
+        - Windows 11
+        - Windows 10
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Rion Studio version
+      placeholder: v1.19.0
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Include the expected behavior and the actual behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy confirmation
+      options:
+        - label: I removed credentials, tokens, session data, and other private information.
+          required: true
