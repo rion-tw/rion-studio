@@ -1,6 +1,6 @@
 # Rion Studio Legal Documents
 
-Version: 2026-07-14
+Version: 2026-07-26
 
 - [Terms of Use (English)](terms.en.md)
 - [使用條款（繁體中文）](terms.zh-TW.md)

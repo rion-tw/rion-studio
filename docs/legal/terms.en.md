@@ -1,6 +1,6 @@
 # Rion Studio Terms of Use
 
-Version and effective date: 2026-07-14
+Version and effective date: 2026-08-02
 
 ## 1. Provider and acceptance
 
@@ -24,7 +24,7 @@ Rion Studio stores isolated browser profiles on your device. These profiles may 
 
 ## 6. Network features
 
-Update checks communicate with GitHub Releases. A custom proxy can process browser traffic. CDN compatibility mode can test Google connectivity and rewrite supported resource requests to third-party mirrors. These services are outside the Rion Studio project's control. CDN compatibility is not a VPN and does not guarantee availability, privacy, integrity, or regional access.
+Update checks communicate with GitHub Releases, and System WebViews follow the operating system's network settings. These services and settings are outside the Rion Studio project's control and do not guarantee availability, privacy, integrity, or regional access.
 
 ## 7. Availability and changes
 

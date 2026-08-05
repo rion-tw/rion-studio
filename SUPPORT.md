@@ -8,4 +8,4 @@ Do not post passwords, access tokens, browser profiles, session data, or securit
 vulnerabilities publicly. Security concerns belong in a private
 [security advisory](https://github.com/rion-tw/rion-studio/security/advisories/new).
 
-This public repository does not accept source-code pull requests.
+The public distribution repository does not accept source-code pull requests.

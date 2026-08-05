@@ -1,6 +1,6 @@
 # Rion Studio Fair Use Rules
 
-Version and effective date: 2026-07-14
+Version and effective date: 2026-07-26
 
 ## Core rule
 
