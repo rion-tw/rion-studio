@@ -1,6 +1,6 @@
 # Rion Studio Terms of Use
 
-Version and effective date: 2026-08-02
+Version and effective date: 2026-09-13
 
 ## 1. Provider and acceptance
 
@@ -12,7 +12,7 @@ Rion Studio is a general-purpose desktop launcher and assistive workspace for is
 
 ## 3. License and restrictions
 
-You receive a limited, revocable, non-exclusive, non-transferable license to install and use distributed Rion Studio binaries for lawful personal use. This license does not grant a license to the source code, names, logos, or third-party materials. You may not use Rion Studio to violate law, another person's rights, a third-party service's rules, or the Fair Use Rules.
+Rion Studio program code is free software licensed under the GNU General Public License version 3 only (GPL-3.0-only). Your rights to use, study, modify, and redistribute that code are governed by the GPL; these Terms do not add restrictions to those GPL rights. The Rion Studio name, logos, and product artwork are not licensed as trademarks, and third-party materials remain under their own licenses. Your conduct remains subject to applicable law and independently enforceable third-party service rules.
 
 ## 4. Third-party services and accounts
 
@@ -24,7 +24,7 @@ Rion Studio stores isolated browser profiles on your device. These profiles may 
 
 ## 6. Network features
 
-Update checks communicate with GitHub Releases, and System WebViews follow the operating system's network settings. These services and settings are outside the Rion Studio project's control and do not guarantee availability, privacy, integrity, or regional access.
+Update checks communicate with GitHub Releases, and bundled Chromium follows the operating system's network settings. These services and settings are outside the Rion Studio project's control and do not guarantee availability, privacy, integrity, or regional access.
 
 ## 7. Availability and changes
 
@@ -40,7 +40,7 @@ If you are not legally able to accept these Terms where you live, use Rion Studi
 
 ## 10. Termination and severability
 
-Your license ends if you materially breach these Terms or the Fair Use Rules. You may stop using the app and remove its local data at any time. If a provision is unenforceable, it is limited only as necessary, and the remaining provisions continue to apply.
+You may stop using the app and remove its local data at any time. Ending these Terms does not alter rights granted directly by the GPL. If a provision is unenforceable, it is limited only as necessary, and the remaining provisions continue to apply.
 
 ## 11. Governing rules
 

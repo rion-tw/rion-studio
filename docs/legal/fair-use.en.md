@@ -1,6 +1,6 @@
 # Rion Studio Fair Use Rules
 
-Version and effective date: 2026-07-26
+Version and effective date: 2026-09-13
 
 ## Core rule
 
@@ -23,4 +23,4 @@ Rion Studio is intended for personal, human-supervised assistance. You must rema
 
 ## Enforcement and responsibility
 
-Third parties decide whether activity violates their rules and can restrict an account regardless of these Rules. The Rion Studio project does not monitor play, approve individual configurations, or promise that supervised use is permitted. A material violation ends the license granted by the Terms of Use.
+Third parties decide whether activity violates their rules and can restrict an account regardless of these Rules. The Rion Studio project does not monitor play, approve individual configurations, or promise that supervised use is permitted. These conduct rules do not alter rights granted directly by the GPL.
