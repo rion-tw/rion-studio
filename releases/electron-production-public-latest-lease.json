@@ -11,17 +11,17 @@
   },
   "kind": "rion-electron-production-public-latest-lease",
   "leaseId": "b7c52bb5-3ba2-41e1-9d4f-d0c5aebdb40c",
-  "previousEventSha256": "7338ceb145269203dfc1ca0854b0aedefe9bc1951d0b78b15a2d2debd538b7bc",
+  "previousEventSha256": "23bc879f0f5fbff838b7c88a449cd95e039a6262a9852d7aa65489aa4e87eeb6",
   "purpose": "electron-v23-publication",
-  "recordedAt": "2026-11-08T12:18:04Z",
-  "revision": 15,
+  "recordedAt": "2026-11-08T12:18:28Z",
+  "revision": 16,
   "schemaVersion": 1,
   "source": {
     "runtime": "electron-v23",
     "stateSha256": "e8c4ba7f8483a56f99f51ac1b9425bdc78334e0b5a17ebb3c308a543052be1ef",
     "version": "9.1.5"
   },
-  "status": "held",
+  "status": "released",
   "target": {
     "runtime": "electron-v23",
     "stateSha256": "1ea23c90506fe39c1e3d52806b86c82a6086cf34e246243de4318ea042ce9b67",
