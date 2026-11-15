@@ -1,32 +1,32 @@
 {
-  "acquiredAt": "2026-11-15T18:09:43Z",
-  "acquiredFromEventSha256": "33215e40f9b286cfdfde2f17f8a7c833681ba939cf2d075a857dc06622b53348",
-  "generation": 13,
+  "acquiredAt": "2026-11-15T19:58:40Z",
+  "acquiredFromEventSha256": "c9a5d1634a9b314d133ec8deb38f69938e2c429864641fb64c34cac5b0316207",
+  "generation": 14,
   "holder": {
-    "headSha": "102a4f68533f29e6ccc206533fe1a9d613ece52c",
+    "headSha": "42b2467380af1e5df7c85e1d5a1382e06d7266a4",
     "repository": "rion-tw/rion-studio-source",
     "runAttempt": 1,
-    "runId": "43744366233",
+    "runId": "43754752088",
     "workflow": ".github/workflows/publish-public-release.yml"
   },
   "kind": "rion-electron-production-public-latest-lease",
-  "leaseId": "e5093918-7863-4b3f-911b-3ae85f7d43e3",
-  "previousEventSha256": "8cdd7bcee180c43698fa98ec5744c9ae23e10b0660c23612129e9c961572f076",
+  "leaseId": "4f8fa94f-861c-419d-baf4-16e06143f017",
+  "previousEventSha256": "c9a5d1634a9b314d133ec8deb38f69938e2c429864641fb64c34cac5b0316207",
   "purpose": "electron-v23-publication",
-  "recordedAt": "2026-11-15T18:10:02Z",
-  "revision": 26,
+  "recordedAt": "2026-11-15T19:58:40Z",
+  "revision": 27,
   "schemaVersion": 1,
   "source": {
-    "runtime": "electron-v23",
-    "stateSha256": "690413f32fc85956ee6689d82cb6b625b510ce43dc5bf6a3cf820135e4608107",
-    "version": "9.4.1"
-  },
-  "status": "released",
-  "target": {
     "runtime": "electron-v23",
     "stateSha256": "32a70cdb78a36654a3a8e08f28aa0b4a810f03e191351ff4318b0be88490562a",
     "version": "9.5.0"
   },
-  "transactionId": "35c83138-10c9-4281-8f1c-601c96dfa310",
-  "vacantGeneration": 12
+  "status": "held",
+  "target": {
+    "runtime": "electron-v23",
+    "stateSha256": "7e5a392f0101b312bb661039c5b178874b470162af47b5a897984fc0fc4f2ad2",
+    "version": "9.5.1"
+  },
+  "transactionId": "dbead0e3-982c-4823-b433-a18d5783bee3",
+  "vacantGeneration": 13
 }
